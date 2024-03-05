@@ -1,1 +1,1 @@
-# Yolov8_weapon_detection
+# YoloV8-Weapon-detection
